@@ -1,4 +1,5 @@
 Macy Werner
+
 First React Project and tutorial to gain experience and familiarity
 
 # Getting Started with Create React App
